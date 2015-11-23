@@ -1,14 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Akme
- * Date: 12.10.15
- * Time: 23:30
- *
- *
- * Just in case
- */
-
 namespace Model;
 
 /**
